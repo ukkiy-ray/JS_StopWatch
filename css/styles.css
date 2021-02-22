@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+ }
+
+body {
+  background-color: #333333;
+  text-align: center;
+  font-family: 'Orbitron', sans-serif;
+  overflow: hidden;
+}
+
+.container {
+  margin-top: 15%;
+}
+
+#timer {
+  color: aliceblue;
+  font-size: 70px;
+  margin-bottom: 30px;
+}
+
+.button {
+  display: inline-block;
+  font-size: 30px;
+  font-family: 'Orbitron', sans-serif;
+  user-select: none;
+}
+
+p {
+  color: yellow;
+  font-size: 18px;
+  margin-top: 30px;
+}
